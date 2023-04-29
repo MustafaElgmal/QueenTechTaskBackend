@@ -3,7 +3,7 @@
 ## Get start
 
 1. Clone this repo
-   `git clone https://github.com/your-username/project-name.git`
+   `git clone https://github.com/MustafaElgmal/QueenTechTaskBackend`
 2. Install requirment
    `npm install`
 3. Create .env file and put PORT=4000 and SECRETKEY=qJvGpCSBkJqLz8HOAkx4eAYROh1G4Tw0
